@@ -51,3 +51,4 @@ pip install pdfminer.six nltk scikit-learn rake-nltk keybert
 ## Contributors
 
 - [@Dhaarun-Abhimanyu](https://github.com/Dhaarun-Abhimanyu)
+- [@Deebika-N](https://github.com/Deebika-N)
